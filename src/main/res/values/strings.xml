@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Recycle</string>
+    <string-array name="title">
+        <item>Tirupati</item>
+        <item>Tirumala</item>
+        <item>Srinivasa Mangapuram</item>
+        <item>Appalayagunta</item>
+        <item>Tiruchanur</item>
+        <item>Kapila Theertham</item>
+        <item>Govinda Raja Swamy Temple</item>
+        <item>Kanipakam</item>
+        <item>Golden temple,vellore</item>
+        <item>Isckon,tirupati</item>
+        <item>Sri Kalahasthi</item>
+        <item>Gudi Mallavaram, Near airport </item>
+        <item>Nagalapuram Temple</item>
+        <item>Kalyana Venkateswara Swamy, Narayanavanam</item>
+        <item>Agastheeswara Temple</item>
+        <item>Sri Kodanda Rama Swamy Temple</item>
+        <item>Ardhagiri Anjaneya Swamy Temple</item>
+        <item>Sila Thoranam</item>
+        <item>Srivari Paadalu, Tirumala</item>
+        <item>Akasa Ganga </item>
+    </string-array>
+    <string-array name="god">
+        <item>Railway stattion</item>
+        <item>Lord Balaji</item>
+        <item>Ganesh</item>
+        <item>Railway stattion</item>
+        <item>Lord Balaji</item>
+        <item>Ganesh</item>
+        <item>Railway stattion</item>
+        <item>Lord Balaji</item>
+        <item>Ganesh</item>
+        <item>Railway stattion</item>
+        <item>Lord Balaji</item>
+        <item>Ganesh</item>
+        <item>Railway stattion</item>
+        <item>Lord Balaji</item>
+        <item>Ganesh</item>
+        <item>Railway stattion</item>
+        <item>Lord Balaji</item>
+        <item>Ganesh</item>
+        <item>Railway stattion</item>
+        <item>Lord Balaji</item>
+    </string-array>
+
+</resources>
